@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  padding-top: 1em;
+}
+
+.download {
+  font-size: 1em;
+  width: 40%;
+  height: 3em;
+  margin: 8em auto;
+  border-radius: 10px;
+  background-color: #fff;
+  border: .1em solid #111;
+  box-shadow: 3px 3px 6px #222;
+  outline: 0;
+}
+
+.download:hover {
+  background-color: red;
+}
+
